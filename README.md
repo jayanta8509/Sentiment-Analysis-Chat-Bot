@@ -23,6 +23,8 @@ ositive Value denotes positive sentiments of a text , Negative Value denotes neg
 At last I have used streamlit to display the visual representation of the overal model.
 link : https://sentimentachatbort.streamlit.app/
 
-
+# contact
+Phone Number : 8017021283
+Email ID : jayantameslova@gmail.com
 
 
